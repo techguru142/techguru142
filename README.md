@@ -1,2 +1,2 @@
-# uranium
-Backend cohort Mar22-Jul22
+# Gurucharan Manjhi
+Backend Developer at H&M Innovance Llp
